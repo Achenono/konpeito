@@ -1,0 +1,27 @@
+node_modules/
+*.log
+.DS_Store
+
+# Local scratch outputs / secrets.
+*probe*
+*reference-probe*
+*.local
+.env*
+*.token
+*.key
+*.pem
+
+# Runtime main branch only tracks the built extension payload.
+src/
+scripts/
+*.md
+package.json
+package-lock.json
+tsconfig.json
+vite.config.ts
+NovelAI官网文档/
+_Codex工作笔记/
+调试日志/
+
+# Keep raw local chat exports out of the runtime branch by default.
+【聊天记录】/

@@ -1,0 +1,12 @@
+{
+  "display_name": "Acsus-Konpeito",
+  "loading_order": 11,
+  "requires": [],
+  "optional": [],
+  "js": "dist/index.js",
+  "css": "dist/index.css",
+  "author": "AcSus",
+  "version": "0.2.0-vue",
+  "homePage": "https://github.com/Achenono/konpeito",
+  "auto_update": false
+}
