@@ -6,7 +6,7 @@
   "js": "dist/index.js",
   "css": "dist/index.css",
   "author": "AcSus",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "homePage": "https://github.com/Achenono/konpeito",
   "auto_update": false
 }

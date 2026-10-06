@@ -5,6 +5,8 @@ node_modules/
 # Local scratch outputs / secrets.
 *probe*
 *reference-probe*
+.playwright-mcp/
+_pack/
 *.local
 .env*
 *.token
